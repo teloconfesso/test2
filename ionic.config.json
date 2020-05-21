@@ -1,5 +1,7 @@
 {
   "name": "phoneAngular",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
